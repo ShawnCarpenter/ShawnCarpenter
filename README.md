@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, I'm Shawn
 
+I'm a software developer and technical problem solver. Currently I'm focused on using Javascript to make web apps.
 <!--
 **ShawnCarpenter/ShawnCarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
